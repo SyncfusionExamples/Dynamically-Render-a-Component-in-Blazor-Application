@@ -32,7 +32,7 @@ dotnet run
 ## Output Demo
 
 
-![Output Demo](./wwwroot/styles/dynamic_component.gif)
+![Output Demo](./wwwroot/styles/dynamic_component_example.gif)
 
 
 ## Blog reference
