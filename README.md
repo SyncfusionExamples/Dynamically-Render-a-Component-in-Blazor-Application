@@ -37,7 +37,7 @@ dotnet run
 
 ## Blog reference
 
-The detailed information about this is available in the blog,  
+[How to Dynamically Render a Component in a Blazor Application](https://www.syncfusion.com/blogs/post/how-to-dynamically-render-a-component-in-a-blazor-application.aspx)
 
 ## See also
 
